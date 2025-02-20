@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Library {
+public class Library{
     ArrayList<Book> books;
 
     public Library(){
