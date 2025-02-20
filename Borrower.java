@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Borrower {
+public class Borrower{
     String name;
     ArrayList<Book> borrowedBooks;
     
