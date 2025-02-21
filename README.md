@@ -1,3 +1,1 @@
-Nama : Theresa Adelia Christi\n
-Kelas : PPTI 22\n
-NIM : 2802540105
+Theresa Adelia Christi / PPTI 22 / 2802540105
